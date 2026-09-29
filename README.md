@@ -2,7 +2,7 @@
 
 **Futur administrateur systèmes Linux junior · École 42 Paris (tronc commun terminé)**
 
-Après plusieurs années dans la **logistique**, je me suis reconverti dans l'informatique en intégrant l'**École 42 Paris en avril 2024**. J'y ai terminé le tronc commun (C, C++, Unix, réseau, Docker). J'y ai trouvé ce qui me plaît : faire tourner, sécuriser et dépanner des systèmes.
+Venu de la **logistique**, je me suis reconverti dans l'informatique en intégrant l'**École 42 Paris en avril 2024**, où j'ai terminé le tronc commun (C, C++, Unix, réseau, Docker).
 
 🎯 Je recherche un **stage ou un premier poste d'administrateur systèmes junior à Paris**.
 📚 En parallèle, je prépare la certification **LPIC-1**.
